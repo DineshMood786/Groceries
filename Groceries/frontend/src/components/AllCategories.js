@@ -2,6 +2,9 @@ import React from "react";
 import { FaCandyCane } from "react-icons/fa6";
 
 const AllCategories = ({ category, filterClick }) => {
+  /* 
+  This for demo purpose
+  */
   return (
     <div
       onClick={filterClick}
